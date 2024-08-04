@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsDate.h(1,33): warning C4081: expected 'newline'; found ';'
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(51,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(73,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(138,21): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(181,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(294,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(354,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(371,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Samsung\source\repos\ConsoleApplication1\ConsoleApplication1\clsQueueLine.h(83,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Samsung\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
